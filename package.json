@@ -1,0 +1,19 @@
+{
+  "name": "egghead-redux-examples",
+  "version": "1.0.0",
+  "description": "Selection of the exercises from Getting Started with Redux course on egghead.io",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "~0.9.0"
+  },
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "egghead"
+  ],
+  "author": "Jaz Lalli",
+  "license": "MIT"
+}
